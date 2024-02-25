@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605645475599",
+    "project_id": "savetwice-cbee4",
+    "storage_bucket": "savetwice-cbee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605645475599:android:8d1ea72435246b2601387a",
+        "android_client_info": {
+          "package_name": "com.example.savetwice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYHzUc7Jt07URZxq_dXDubq9udt0rnxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
